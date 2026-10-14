@@ -4,6 +4,4 @@ using UnityEngine;
 
 public class RigidbodySleep : MonoBehaviour
 {
-   [RequiredComponent(typeof(Rigidbody))]
-
 }
