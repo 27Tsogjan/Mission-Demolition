@@ -13,9 +13,9 @@ GameObject:
   - component: {fileID: 2807579542910195610}
   - component: {fileID: 2807579542910195685}
   - component: {fileID: 2807579542910195684}
-  - component: {fileID: 2807579542910195687}
+  - component: {fileID: -4633954615549230044}
   m_Layer: 0
-  m_Name: wall
+  m_Name: Wall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -115,7 +115,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 56
   m_CollisionDetection: 0
---- !u!114 &2807579542910195687
+--- !u!114 &-4633954615549230044
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
