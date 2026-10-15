@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class GameOverScreen : MonoBehaviour {
     // Try again at level 1
     public void PlayAgain() {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(1);
     }
 
 }

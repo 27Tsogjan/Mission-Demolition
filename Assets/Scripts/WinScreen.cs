@@ -6,6 +6,6 @@ using UnityEngine.SceneManagement;
 public class WinScreen : MonoBehaviour {
     // Start at level 1
     public void PlayAgain() {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(1);
     }
 }
