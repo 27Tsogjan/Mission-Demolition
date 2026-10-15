@@ -82,7 +82,7 @@ public class MissionDemolition : MonoBehaviour {
         // Lose level
         if (mode == GameMode.playing && shotsTaken >= maxShots && !lossCheckScheduled) {
             lossCheckScheduled = true;
-            Invoke("CheckLoss", 4f);
+            Invoke("CheckLoss", 10f);
         }
     }
 
