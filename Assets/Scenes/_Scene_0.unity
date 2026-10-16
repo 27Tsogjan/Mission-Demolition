@@ -206,7 +206,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 963194229}
         m_TargetAssemblyTypeName: FollowCam, Assembly-CSharp
         m_MethodName: SwitchView
         m_Mode: 1
@@ -1042,7 +1042,7 @@ MonoBehaviour:
   prefabProjectile: {fileID: 4942406215112350433, guid: f0bd22a9b418f6a49b60f6d927731e8e, type: 3}
   audioSource: {fileID: 1616447324}
   launchSound: {fileID: 8300000, guid: 6f2e88b8a858f4a2f913e72fc8dc8bd5, type: 3}
-  velocityMult: 8
+  velocityMult: 10
   projLinePrefab: {fileID: 7801436608173748601, guid: c2ec7ed753e49426aa042cdb0a48ed53, type: 3}
   rubberBand: {fileID: 1616447321}
   leftArm: {fileID: 1422487219}

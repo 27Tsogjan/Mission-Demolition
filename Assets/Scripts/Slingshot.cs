@@ -10,7 +10,7 @@ public class Slingshot : MonoBehaviour
     public AudioSource audioSource;
     public AudioClip launchSound;
 
-    public float velocityMult = 8f;
+    public float velocityMult = 10f;
     public GameObject projLinePrefab;
 
     [Header("Rubber Band")]
